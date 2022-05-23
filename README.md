@@ -1,2 +1,2 @@
-# Chalenge-Oracle-Decoder
-primer chalenge
+# Chalenge-Oracle-Ahorcado
+SEGUNDO CHALLENGE AHORCADO
